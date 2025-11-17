@@ -5,8 +5,16 @@
 ```
 docker compose up --build
 ```
-Frontend: http://localhost:3000  
-Backend: http://localhost:5000  
+Frontend: http://localhost:3000
+Backend: http://localhost:5000
 Postgres: localhost:5432 (timetracker / admin / admin)
 
-Work on flask
+Backend:
+FastAPI
+Docker
+
+Frontend:
+HTML/CSS/JS
+React
+
+
